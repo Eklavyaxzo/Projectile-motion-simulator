@@ -1,0 +1,25 @@
+# Projectile Motion Simulation
+This project simulates the trajectory of a projectile launched at a given angle and velocity. It calculates maximum height, range, and plots the motion using Python.
+- Calculates time of flight
+- Finds maximum height
+- Finds range (distance)
+- Plots projectile trajectory
+- Takes user input for angle and velocity
+Requirements:
+- Python 3.10.0
+- numpy
+- matplotlib
+
+Install packages using:
+pip install numpy matplotlib
+
+Run the script:
+python projectile_motion.py
+
+Then enter:
+- Angle of launch (degrees)
+- Initial velocity (m/s)
+
+
+Maximum Height: 10.2 m
+Maximum Distance: 40.8 m
